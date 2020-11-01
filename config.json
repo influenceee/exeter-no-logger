@@ -1,0 +1,11 @@
+{
+    "token": "enter-your-token-here",
+    "password": "dont add ur password only add it if u want more commands but its not needed",
+    "prefix": "selfbot prefix",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/kari",
+    "tts_language": "en"
+}
